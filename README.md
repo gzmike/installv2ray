@@ -7,7 +7,11 @@
 
 # vmess安装：
 
-终端执行命令: curl -s https://raw.githubusercontent.com/HappyLife-page/v2ray/main/v2ray_installation_vmess.sh | bash -s "你的解析好的域名"
+自己的脚本路径：
+终端执行命令:curl -s https://raw.githubusercontent.com/gzmike/installv2ray/main/v2ray_installation_vmess.sh | bash -s "你的解析好的域名"
+
+原版的：
+curl -s https://raw.githubusercontent.com/HappyLife-page/v2ray/main/v2ray_installation_vmess.sh | bash -s "你的解析好的域名"
 # EG：
 curl -s https://raw.githubusercontent.com/HappyLife-page/v2ray/main/v2ray_installation_vmess.sh | bash -s kty.v2ray.one
 
